@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Ch.</h1>
-<h3 align="center">A passionate Full Stack Developer from Chile, Latam.</h3>
+<h3 align="center">A passionate Full Stack Developer from Chile to World!</h3>
 
-- 🔭 I’m currently working on **Retail e-commerce project.**
+- 🔭 I’m currently working on **e-commerce project.**
 
 - 📫 How to reach me **joch10@yahoo.com**
 
